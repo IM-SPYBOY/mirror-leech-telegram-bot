@@ -5,7 +5,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 Take your new Telegram bot live with one click. \
 **Free hosting. No credit card required.**
 
-[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/telegram-bot)
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/mirror-leech-telegram-bot)
 
 <p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
